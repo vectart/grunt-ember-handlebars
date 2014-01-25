@@ -1,7 +1,7 @@
 {
   "name": "grunt-ember-handlebars",
   "description": "Precompile ember templates in grunt using only ember-template-compiler.js.",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "homepage": "https://github.com/vectart/grunt-ember-handlebars",
 
   "author": {
