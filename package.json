@@ -2,7 +2,7 @@
   "name": "grunt-ember-handlebars",
   "description": "Precompile ember templates in grunt using only ember-template-compiler.js.",
   "version": "0.7.0",
-  "homepage": "https://github.com/yaymukund/grunt-ember-handlebars",
+  "homepage": "https://github.com/vectart/grunt-ember-handlebars",
 
   "author": {
     "name": "Mukund Lakshman",
@@ -12,7 +12,7 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/yaymukund/grunt-ember-handlebars.git"
+    "url": "https://github.com/vectart/grunt-ember-handlebars.git"
   },
 
   "bugs": {
